@@ -2,10 +2,28 @@
 
 ###
 
-<p align="center">I'm an AI & ML enthusiast passionate about Deep Learning, NLP, Computer Vision, LLMs, and Blockchain. My work includes OCR, RAG, model fine-tuning, and AI-driven smart contracts. I specialize in optimizing ML models, developing intelligent applications, and integrating AI with blockchain. Skilled in Java, algorithm design, and high-performance computing, I'm constantly exploring cutting-edge AI solutions to solve real-world problems. Let's innovate together!</p>
+
+###
+<h2 align="left">About me</h2>
 
 ###
 
+<p align="left">🎓 I am a final year Computer Science post-graduate, pursuing MCA at BHU, Varanasi.<br>📑 I am currently learning NLP, LLMs, Generative AI, AWS and Docker.</p>
+
+###
+
+<h2 align="left">Work Domain</h2>
+
+###
+
+<p align="left">🤖 AI/ML<br>⛓️ Blockchain<br>🍵 Java Development<br>📱 Mobile App Development</p>
+
+###
+
+<h2 align="left">Languages and Tools</h2>
+
+###
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -53,6 +71,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
 </div>
+
+###
+###
+
+<h2 align="left">Socials</h2>
 
 ###
 
