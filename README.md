@@ -94,11 +94,6 @@
   </a>
 </div>
 
-###
-
-<img align="right" height="150" src="https://luminoguru.com/blog/ai-ml-transforming-the-future-of-technology/"  />
-
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
