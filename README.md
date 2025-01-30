@@ -1,3 +1,4 @@
+<img src = "banner.jpg" alt = "GitHub Banner" width = "100%" />
 <h1 align="left">Hey!👋 My name is Utkarsh Pal.</h1>
 
 ###
