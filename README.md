@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🎓 I am a final year Computer Science post-graduate, pursuing MCA at BHU, Varanasi.<br>📑 I am currently learning NLP, LLMs, Generative AI, AWS and Docker.</p>
+<p align="left">🎓 I am a final year Computer Science post-graduate, pursuing MCA at BHU, Varanasi.<br>📑 I am currently learning NLP, LLMs, Generative AI, AWS and Docker.<br> Currently open to collabrate and work.</p>
 
 ###
 
